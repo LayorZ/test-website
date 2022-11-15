@@ -49,7 +49,7 @@ body {background-color: coral;}
   </head>
   <div class="animated_rainbow_2">Shtok ya tambal</div>
   <div2 class="animated_rainbow_3" a href="ByeByeZain" onclick="setTimeout(function(){var ww = window.open(window.location, '_self'); ww.close(); }, 1000);">
-    If you click on this the window will be closed after 1000</div2>
+    Leave my page you weirdo</div2>
 </a>
 </body>
 </html>
