@@ -1,0 +1,55 @@
+<html>
+  <head>
+<style>
+body {background-color: coral;}
+.animated_rainbow_3 {
+    font-size: 50px;
+    font-family: cursive;
+    text-align :center;
+    padding:100px;
+    -webkit-animation: animatedBackground_b 2s linear infinite alternate;
+}
+
+@keyframes animatedBackground_b{
+    0% {color: #ff8b00}
+    10% {color: #e8ff00}
+    20% {color: #5dff00}
+    30% {color: #00ff2e}
+    40% {color: #00ffb9}
+    50% {color: #00b9ff}
+    60% {color: #002eff}
+    70% {color: #5d00ff}
+    80% {color: #e800ff}
+    90% {color: #ff008b}
+    100% {color: #ff0000}
+}
+
+.animated_rainbow_2 {
+    font-size: 250px;
+    font-family: cursive;
+    text-align :center;
+    padding:100px;
+    -webkit-animation: animatedBackground_b 2s linear infinite alternate;
+}
+
+@keyframes animatedBackground_b{
+    0% {color: #ff8b00}
+    10% {color: #e8ff00}
+    20% {color: #5dff00}
+    30% {color: #00ff2e}
+    40% {color: #00ffb9}
+    50% {color: #00b9ff}
+    60% {color: #002eff}
+    70% {color: #5d00ff}
+    80% {color: #e800ff}
+    90% {color: #ff008b}
+    100% {color: #ff0000}
+}
+</style>
+  </head>
+  <div class="animated_rainbow_2">Shtok ya tambal</div>
+  <div2 class="animated_rainbow_3" a href="ByeByeZain" onclick="setTimeout(function(){var ww = window.open(window.location, '_self'); ww.close(); }, 1000);">
+    If you click on this the window will be closed after 1000</div2>
+</a>
+</body>
+</html>
